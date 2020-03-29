@@ -1,0 +1,45 @@
+h1{
+
+    font-size: 50px;
+    color: red;
+}
+
+h2{
+
+    font-size: 35px;
+    color:red;
+}
+
+body{
+
+    background-color: #87CEFA;
+}
+
+.analog-clock{
+
+    width:140px;
+    height:140px;
+}
+
+#face{
+
+    stroke:red;
+    fill:#F0FF8A;
+}
+
+#second{
+
+    stroke:black;
+}
+
+#hour{
+
+    stroke-width:4px;
+    stroke:black;
+}
+
+#minute{
+
+    stroke-width:2px;
+    stroke:black;
+}
